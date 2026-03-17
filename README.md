@@ -49,4 +49,8 @@ Este projeto foi desenvolvido como parte de um processo de aprendizado acompanha
 
 Rafael Vinicius Proença dos Santos
 
+## Gráfico
+
+![Gráfico de viagens](output/grafico.png)
+
 
