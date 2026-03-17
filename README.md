@@ -48,3 +48,5 @@ Este projeto foi desenvolvido como parte de um processo de aprendizado acompanha
 ## Autor
 
 Rafael Vinicius Proença dos Santos
+
+![Gráfico de viagens](output/grafico.png)
