@@ -49,8 +49,9 @@ Este projeto foi desenvolvido como parte de um processo de aprendizado acompanha
 
 Rafael Vinicius Proença dos Santos
 
-## Gráfico
+## Visualização dos dados
 
-![Gráfico de viagens](output/grafico.png)
+Gráfico gerado a partir da análise das viagens de servidores públicos utilizando Python.
 
+![Gráfico](https://raw.githubusercontent.com/Rafaelsantosz2004/analise-viagens-servidores-python/main/grafico.png)
 
