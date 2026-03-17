@@ -49,4 +49,5 @@ Este projeto foi desenvolvido como parte de um processo de aprendizado acompanha
 
 Rafael Vinicius Proença dos Santos
 
-![Gráfico de viagens](<img width="1527" height="585" alt="grafico" src="https://github.com/user-attachments/assets/6ccc5ab3-07bc-45c0-8849-e09308a5b545" />)
+![Gráfico de viagens](<img width="1526" height="584" alt="image" src="https://github.com/user-attachments/assets/4a1b1e69-ba3f-4da7-b85b-bfc1811a73c8" />
+)
